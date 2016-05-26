@@ -86,7 +86,7 @@ public class Ex11_1 {
         
         myFrame.pack();
         myFrame.setSize( myFrame.getPreferredSize() );
-        // Our size will be wrong, so let's fix it
+        // Our size will be wrong, so let's fix it       
         //myFrame.setSize(600, 200);
         // alternate: use pack
         //myFrame.pack();

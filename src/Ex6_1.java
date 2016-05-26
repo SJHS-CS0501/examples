@@ -82,6 +82,10 @@ public class Ex6_1 {
         Foo( int f ) {
             foo = f;
         }
+        
+        Foo() {
+        	foo = 0;
+        }
        
         public int getFoo() {
             return foo;

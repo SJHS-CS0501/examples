@@ -34,7 +34,6 @@ public class Ex6_3 {
         System.out.println( "Circumference: " + circle.circumference() );
         System.out.println( "Area: " + circle.area() );
  
-        
     }
     
 }
