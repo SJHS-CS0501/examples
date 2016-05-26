@@ -53,6 +53,7 @@ public class Ex6_2 {
         public String getMiddleName() {
             return mName;
         }
+        // example phone number regex: "^[0-9]{3}-[0-9]{3}-[0-9]{3}$"
         /*
          * Name (first, last, middle)
          * Prefix
